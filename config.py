@@ -14,7 +14,7 @@ else:
     STRING_SESSION = None
 
 # Bot token @Botfather
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8321121313:AAFW63D4-KUwRv-BeJ7waoZ-KXX6_p0DUeA")
 
 # Your API ID from my.telegram.org
 API_ID = int(os.environ.get("API_ID", "30341150"))
